@@ -41,7 +41,7 @@
 ### Pre-requisites:
 - Note
      1. EKS Cluster needs to be up and running. Setup EKS cluster in AWS cloud.
-          - https://github.com/kily-king/Setup-monitoring-on-EKS-Cluster-using-Prometheus-and-Grafana/blob/main/Create-Amazon-EKS-Cluster-using-eksctl(CLI-with-IAM-Role).md
+          - https://github.com/kily-king/Setup-monitoring-EKS-Cluster-Prometheus-Grafana/blob/main/EKS-eksctl-(CLI-with-IAM-Role).md
      2. Install Helm3
      3. EC2 instance to access EKS cluster
 
@@ -58,7 +58,7 @@
 1. AWS console
 2. AWS CLI
 3. eksctl command
-4. Terraform ( https://github.com/kily-king/Setup-monitoring-on-EKS-Cluster-using-Prometheus-and-Grafana/blob/main/terraform.md )
+4. Terraform ( https://github.com/kily-king/Setup-monitoring-EKS-Cluster-Prometheus-Grafana/blob/main/terraform.md )
 
 
 
