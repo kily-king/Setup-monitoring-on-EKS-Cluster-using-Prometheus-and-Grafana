@@ -57,7 +57,7 @@
 1. AWS console
 2. AWS CLI
 3. eksctl command
-4. using Terraform ( https://github.com/kily-king/Setup-monitoring-on-EKS-Cluster-using-Prometheus-and-Grafana/blob/main/terraform.md )
+4. Terraform ( https://github.com/kily-king/Setup-monitoring-on-EKS-Cluster-using-Prometheus-and-Grafana/blob/main/terraform.md )
 
 
 
